@@ -1,1 +1,1 @@
-# Projeto em :coffee: Java mostrando as relações entre classes
+# Projeto em Java :coffee: mostrando as relações entre classes
